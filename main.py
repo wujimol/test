@@ -4,7 +4,8 @@ import diaoyong
 import computer
 import sencomputer
 import itcomputer
-# 测试git
+# 测试git111
+
 if __name__ == '__main__':
 
     app = QApplication(sys.argv)
